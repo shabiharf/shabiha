@@ -31,7 +31,6 @@ What drives me: turning raw market data into decisions that actually move the ne
 ### What I'm Working On
 
 - 🎓 Finalizing my undergraduate thesis: **Indonesian Gold Price Forecasting using LSTM, GRU, and Bi-LSTM** with multivariate inputs (USD/IDR, IHSG)
-- 💼 Onboarding for an **Executive Assistant – Data & Treasury** role in the fintech / forex brokerage industry
 - 📈 Building a systematic trading toolkit — automated trading journal with Notion integration
 - 🎯 Preparing for **Australia Awards Scholarship 2027** — MSc in Applied Finance at the University of Melbourne
 
@@ -99,12 +98,15 @@ What drives me: turning raw market data into decisions that actually move the ne
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shabiharf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shabiharf&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shabiharf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabiharf&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com?user=shabiharf&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shabiharf&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
 </p>
 
 ---
